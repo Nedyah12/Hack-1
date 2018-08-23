@@ -8,6 +8,6 @@ A collaborative lab between students at UNL
 #include <stdlib.h>
 #include <stdio.h>
 int main (int argc, char **argv)) {
-printf("Hayden Henning Computer Engineering)
+printf("Hayden Henning Computer Engineering and Caleb Jacobsen)
 return 0;
 }
