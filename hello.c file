@@ -1,0 +1,13 @@
+# Hack-01-
+
+A collaborative lab between students at UNL
+/**
+*Author: Hayden Henning
+*Date: 8/23/2018
+*A collaborative hack assignment between Hayden Henning and Caleb Jacobsen
+#include <stdlib.h>
+#include <stdio.h>
+int main (int argc, char **argv)) {
+printf("Hayden Henning Computer Engineering)
+return 0;
+}
